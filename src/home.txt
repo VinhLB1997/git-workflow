@@ -5,3 +5,7 @@ Số điện thoại: 0901234567
 Email: nguyenvana@example.com
 Nghề nghiệp: Kỹ sư phần mềm
 Sở thích: Đọc sách, chơi thể thao, lập trình
+
+------------------------------------------------------------
+Thông tin thêm về công việc hiện tại như sau:
+Đang làm nhân viên tại dtsvn
