@@ -1,0 +1,7 @@
+Họ và tên: Nguyễn Văn A
+Ngày sinh: 01/01/1990
+Địa chỉ: 123 Đường ABC, Phường XYZ, Quận 1, TP. Hồ Chí Minh
+Số điện thoại: 0901234567
+Email: nguyenvana@example.com
+Nghề nghiệp: Kỹ sư phần mềm
+Sở thích: Đọc sách, chơi thể thao, lập trình
