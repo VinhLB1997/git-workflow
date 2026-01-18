@@ -1,3 +1,4 @@
+Information::
 Họ và tên: Nguyễn Văn A
 Ngày sinh: 01/01/1990
 Địa chỉ: 123 Đường ABC, Phường XYZ, Quận 1, TP. Hồ Chí Minh
@@ -9,3 +10,4 @@ Sở thích: Đọc sách, chơi thể thao, lập trình
 ------------------------------------------------------------
 Thông tin thêm về công việc hiện tại như sau:
 Đang làm nhân viên tại dtsvn
+-- Loading --
